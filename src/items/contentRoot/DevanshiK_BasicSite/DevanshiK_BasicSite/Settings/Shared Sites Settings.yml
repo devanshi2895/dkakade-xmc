@@ -1,0 +1,36 @@
+﻿---
+ID: "d50652a4-ae7b-4b4f-b247-c64b72bc411e"
+Parent: "61ac6d02-53ff-46db-9314-4a962f3442b2"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: /sitecore/content/DevanshiK_BasicSite/DevanshiK_BasicSite/Settings/Shared Sites Settings
+BranchID: "55330bb7-6095-414a-b29b-0042ce8d9331"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4CAE3F14-39ED-448F-A48C-F7A985A6EB77}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240619T075042Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20fa10cd-78f3-4bfb-9b4b-7eca51e630e4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T075042Z

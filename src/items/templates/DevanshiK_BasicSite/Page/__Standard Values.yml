@@ -1,0 +1,40 @@
+﻿---
+ID: "1647996e-3765-4360-8363-fc8d1c59e5a9"
+Parent: "8346c892-1f7f-40bb-b7eb-5c3b80fc4008"
+Template: "8346c892-1f7f-40bb-b7eb-5c3b80fc4008"
+Path: /sitecore/templates/Project/DevanshiK_BasicSite/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {8346C892-1F7F-40BB-B7EB-5C3B80FC4008}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09215e2e-5117-4a3b-9ea4-c02a1cb31bd0"
+      Hint: Title
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240619T075029Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6da134dd-0dc0-4a41-b276-27371065091e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T075036Z

@@ -1,0 +1,32 @@
+{
+  "namespace": "DevanshiKBasicSite.XmCloud",
+  "items": {
+    "includes": [
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Project/DevanshiK_BasicSite",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "contentRoot",
+        "path": "/sitecore/content/DevanshiK_BasicSite",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "media",
+        "path": "/sitecore/media library/Project/DevanshiK_BasicSite",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "PlaceholderSettings",
+        "path": "/sitecore/layout/Placeholder Settings/Project/DevanshiK_BasicSite",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Project/DevanshiK_BasicSite",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}
